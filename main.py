@@ -1,3 +1,5 @@
+#DAY 1 
+
 #lets start learning python in very simple and easy language so our first line of code looks like this 
 
 print("hello world")
@@ -47,3 +49,5 @@ hobby = "badminton"
 print(age) # 12
 print(colour) #green
 print(hobby) #badminton
+
+# *always keep the variable name short, clean and meaningful
