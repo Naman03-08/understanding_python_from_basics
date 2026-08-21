@@ -51,3 +51,14 @@ print(colour) #green
 print(hobby) #badminton
 
 # *always keep the variable name short, clean and meaningful
+
+# day 2 
+
+# in day 2 we will start with data types and there types 
+# there are 5 types of data type and all the 5 types of data type are as follow :
+
+#1) strng
+#2) integer 
+#3) float
+#4) boolean 
+#5) none 
