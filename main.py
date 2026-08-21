@@ -74,3 +74,12 @@ batch = "batch 1"
 print(section) # string value will be shown on the screen 
 print(batch) # string value will be shown on the screen 
 
+# * integer -> integer data type contains all the integer value that exist in the world for eg->
+
+age = 12;
+marks = 98;
+percentage = 77;
+
+print(age) # 12, this is an integer value 
+print(marks) # 98, this is an integer value 
+print(percentage) # 77, this is an integer value 
