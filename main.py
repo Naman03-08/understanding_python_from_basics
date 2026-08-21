@@ -91,3 +91,11 @@ price = 35.5
 
 print(type(percentage2)) # this is a floatin value 
 print(type(price)) # this is a floatin value 
+
+# bollean -> boolean data type contains 2 values which are true and false, for eg ->
+
+x = 12
+y = 13
+
+print(type(x>y)) # its False and the type is boolean
+print(type(y>x)) # its True and the type is boolean 
