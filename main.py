@@ -71,8 +71,8 @@ print(type(name2)) # string
 section = "builder 1"
 batch = "batch 1"
 
-print(section) # string value will be shown on the screen 
-print(batch) # string value will be shown on the screen 
+print(type(section)) # string value will be shown on the screen 
+print(type(batch)) # string value will be shown on the screen 
 
 # * integer -> integer data type contains all the integer value that exist in the world for eg->
 
@@ -80,6 +80,14 @@ age = 12;
 marks = 98;
 percentage = 77;
 
-print(age) # 12, this is an integer value 
-print(marks) # 98, this is an integer value 
-print(percentage) # 77, this is an integer value 
+print(type(age)) # 12, this is an integer value 
+print(type(marks)) # 98, this is an integer value 
+print(type(percentage)) # 77, this is an integer value 
+
+# * float -> float data type contains all the number which have decimal in it for eg ->
+
+percentage2 = 89.5
+price = 35.5 
+
+print(type(percentage2)) # this is a floatin value 
+print(type(price)) # this is a floatin value 
