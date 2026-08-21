@@ -62,3 +62,15 @@ print(hobby) #badminton
 #3) float
 #4) boolean 
 #5) none 
+
+# * String -> string data type contains any letter, word, or any sentence mainly letters for eg ->
+name2 = "naman"
+print(type(name2)) # string
+
+#eg2 ->
+section = "builder 1"
+batch = "batch 1"
+
+print(section) # string value will be shown on the screen 
+print(batch) # string value will be shown on the screen 
+
