@@ -99,3 +99,5 @@ y = 13
 
 print(type(x>y)) # its False and the type is boolean
 print(type(y>x)) # its True and the type is boolean 
+
+# none -> the none data type contains nothing in it 
