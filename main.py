@@ -140,5 +140,22 @@ print(sum); # 12+13 = 25
 #3) assingment oprator 
 #4) logic oprator 
 
-# Arthematic Oprator -> Arthematic oprators are all the oprators avalable in mathamatics For eg ->{+, -, /, *, **}
+# Arthematic Oprator -> Arthematic oprators are all the oprators avalable in mathamatics For eg ->{+, -, /, *, **} 
+
+a = 10;
+b = 13;
+sum = (a+b);
+sub = (a-b);
+mul = (a*b);
+div = (a/b);
+power = (a**b);
+
+print(sum) # 23
+print(sub) # -3
+print(mul) # 130
+print(div) # 0.7692307692307693
+print(power) # 10000000000000
+
+# inputs in python ->
+
 
