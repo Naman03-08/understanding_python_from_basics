@@ -128,3 +128,17 @@ b = 13;
 sum = a+b;
 print(sum); # 12+13 = 25 
 
+# DAY 3 ->
+
+# Operators and there types
+
+# an oprator is an symbol that perform a certain operations b/w opratents 
+
+# there are total 4 oprators 
+#1) Arthematic oprator 
+#2) Relation oprator 
+#3) assingment oprator 
+#4) logic oprator 
+
+# Arthematic Oprator -> Arthematic oprators are all the oprators avalable in mathamatics For eg ->{+, -, /, *, **}
+
