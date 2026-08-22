@@ -194,3 +194,14 @@ str2 = " "
 str3 = "pandey"
 
 print(str1+str2+str3) # naman pandey
+
+# Length of string 
+# the length of string can be defined as the number of length in the string, for eg->
+
+str1 = "HELLO WORLD"
+# the length -> H E L L O  W O R L D
+#               1 2 3 4 5 6 7 8 9 10 11
+
+# the length of the string is 11 
+# symntax = print(len(str1))
+print(len(str1)) # 11
