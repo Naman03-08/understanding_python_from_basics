@@ -116,3 +116,15 @@ print(type(a)) # none
 # * Python is a case sensitive language it means that (A and a) both are different variables and have different meaning 
 
 #eg -> Apple and apple both have different meaning in python because python is a case sensitive language 
+
+# Comments ->
+
+# comments are used when the developers dont want any user to see that line of code for eg -> all the colourless lines which are visible in this codebase are called comments 
+
+# practice qurestion -> 1) print the sum of any 2 numbers 
+
+a = 12;
+b = 13;
+sum = a+b;
+print(sum); # 12+13 = 25 
+
