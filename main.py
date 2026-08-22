@@ -180,4 +180,17 @@ avg = (a+b+c)/3
 print(sum)
 print(avg)
 
-  
+# Strings 
+# string is a data type that stores sequence of character and word 
+#* in string if any user needs to change time or jump to next line we use (\n)
+#* and if any user needs some space between text then user will use (\t)
+
+# Concatanation ->
+# Concatination can be defined as the addition of two strings value for eg->
+# "hello" + " " + "world" = "hello world"
+
+str1 = "naman"
+str2 = " "
+str3 = "pandey"
+
+print(str1+str2+str3) # naman pandey
