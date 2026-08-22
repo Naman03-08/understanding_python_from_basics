@@ -157,5 +157,27 @@ print(div) # 0.7692307692307693
 print(power) # 10000000000000
 
 # inputs in python ->
+# inputs are used to take inputs from the user any value, integer, string, float, none or boolean values :
+
+#Inputs are used to accept value from the users through Keyboard, for example ->
+
+a = input("enter your name: ")
+b = input("enter your age: ")
+
+print(a) # enter your name: 
+print(b) # enter your age: 
 
 
+# practice question : 2) write a program to take users input and then make there sum and find its avarage 
+
+a = int(input("enter any number : "))
+b = int(input("enter any other number: "))
+c = int(input("enter any 3rd number: "))
+
+sum = a+b+c;
+avg = (a+b+c)/3
+
+print(sum)
+print(avg)
+
+  
