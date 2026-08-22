@@ -100,4 +100,19 @@ y = 13
 print(type(x>y)) # its False and the type is boolean
 print(type(y>x)) # its True and the type is boolean 
 
-# none -> the none data type contains nothing in it 
+# none -> the none data type contains nothing in it for eg ->
+a = None;
+print(type(a)) # none 
+
+#KeyWords 
+
+#* All the key words are reserved innpython and non of the Keywords can be used as Variable, for eg->
+
+# and , else , in , return , as , except , is , True , asset , Finally 
+# lambda , try , break , False , non local , with , class, for , none , while 
+# continue , from , not , yeald , def , if , pass , elif , import , raiss 
+
+
+# * Python is a case sensitive language it means that (A and a) both are different variables and have different meaning 
+
+#eg -> Apple and apple both have different meaning in python because python is a case sensitive language 
