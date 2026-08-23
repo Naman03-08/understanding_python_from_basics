@@ -237,3 +237,21 @@ str.find("he") # false
 #5) str.count -> count is used to count the number of occurence of the letter or word in that string, for eg->
 
 str.count("a") # 2, 2 because in the sentence "i am a coder" "a" comes 2 time 
+
+# Indexing 
+# --------
+
+# indexing can be defined as the location and the position of the string or the alphabet of that string, for eg->
+
+str2 = "naman pandey"
+
+# n a m a n   p a n d e y 
+# - - - - - - - - - - - -
+# 0 1 2 3 4 5 6 7 8 9 0 10
+# -------------------------->
+
+
+# indexing strts from 0 and can go till any number of character including space 
+
+# to print the character of a spacific index number soo we do ->
+print(str2[4]) # n " "n" will be printed because "n" is on the 4th place of "str2" "
