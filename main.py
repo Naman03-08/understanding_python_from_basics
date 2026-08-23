@@ -255,3 +255,6 @@ str2 = "naman pandey"
 
 # to print the character of a spacific index number soo we do ->
 print(str2[4]) # n " "n" will be printed because "n" is on the 4th place of "str2" "
+
+# **** we can not and never change the index value of any string ****
+
