@@ -225,3 +225,7 @@ str.endswith("coder") # true
 
 str.capitalize() # "I am a coder"
 
+# 3) str.replace -> replace is used to either replace a letter or any word in a stirng for eg->
+
+str.replace("coder", "programmer") # "i am a programmer"
+
