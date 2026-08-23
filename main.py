@@ -258,3 +258,17 @@ print(str2[4]) # n " "n" will be printed because "n" is on the 4th place of "str
 
 # **** we can not and never change the index value of any string ****
 
+# Conditional startment ->
+# -----------------------
+# condition startment are those startment in which the user apply some conditions like (if , elif, else)
+
+# conditional startents are used to check the conditions and privide results on the basis of the conditions for eg->
+
+my_name = "naman"
+
+if(my_name == "naman"): # this line says that if the name is true that the name is naman 
+    print("its true") # and this line says that if the above line is true then print "ts true"
+elif(my_name == "aman"): # this line says if the "my_name" is not "naman" then check if its "pandey" or not 
+    print("its true too") # this line says if "my_name" is "pandey" the print "its true too"
+else:  # this line says that is nothing is true than use me 
+    print("false") # and this line says that if the else condition will have to work thenprint "false"
