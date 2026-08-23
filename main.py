@@ -229,3 +229,7 @@ str.capitalize() # "I am a coder"
 
 str.replace("coder", "programmer") # "i am a programmer"
 
+# 4) str.find -> find is used to find if the letter or word is avalable in that sting or not if yes then it will print true and if no then it will print false, for eg->
+
+str.find("coder") # true
+str.find("he") # false 
