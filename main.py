@@ -233,3 +233,7 @@ str.replace("coder", "programmer") # "i am a programmer"
 
 str.find("coder") # true
 str.find("he") # false 
+
+#5) str.count -> count is used to count the number of occurence of the letter or word in that string, for eg->
+
+str.count("a") # 2, 2 because in the sentence "i am a coder" "a" comes 2 time 
