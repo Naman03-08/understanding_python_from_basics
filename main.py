@@ -205,3 +205,18 @@ str1 = "HELLO WORLD"
 # the length of the string is 11 
 # symntax = print(len(str1))
 print(len(str1)) # 11
+
+# DAY 4 
+
+# string functions 
+# string functoins can be defined that string functions helps to find the value, the count, the letters and also it helps to capatilise the letters and also replace some of the words or letters 
+
+# there are total 5 types of string functions 
+
+str = "I am a coder"
+
+# str is a string in which all the functions will be followed 
+
+# 1) str.endswith() -> endswith is used to check that the string ends with the provided letter or provided word, eg->
+
+str.endswith("coder") # true
