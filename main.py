@@ -213,10 +213,15 @@ print(len(str1)) # 11
 
 # there are total 5 types of string functions 
 
-str = "I am a coder"
+str = "i am a coder"
 
 # str is a string in which all the functions will be followed 
 
 # 1) str.endswith() -> endswith is used to check that the string ends with the provided letter or provided word, eg->
 
 str.endswith("coder") # true
+
+# 2) str.capatilizer -> capatalizer is used to make the first letter of any string capatial in the string for eg->
+
+str.capitalize() # "I am a coder"
+
