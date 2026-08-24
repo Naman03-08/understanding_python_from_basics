@@ -333,3 +333,7 @@ match colour: # this startment says that match the colours according to the case
 #     <------------>
 
 # loops-> loops are used to repet any task for some certain number of time and it also depends on the user 
+
+# loops are classified in 2 types 
+# 1) while loop
+# 2) for loop
