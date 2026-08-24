@@ -1,4 +1,5 @@
-#DAY 1 
+#                                                    DAY 1
+#                                               <--------------> 
 
 #lets start learning python in very simple and easy language so our first line of code looks like this 
 
@@ -52,7 +53,8 @@ print(hobby) #badminton
 
 # *always keep the variable name short, clean and meaningful
 
-# day 2 
+#                                                day 2 
+#                                          <--------------->
 
 # in day 2 we will start with data types and there types 
 # there are 5 types of data type and all the 5 types of data type are as follow :
@@ -128,7 +130,8 @@ b = 13;
 sum = a+b;
 print(sum); # 12+13 = 25 
 
-# DAY 3 ->
+#                                                DAY 3 
+#                                           <------------->
 
 # Operators and there types
 
@@ -206,7 +209,8 @@ str1 = "HELLO WORLD"
 # symntax = print(len(str1))
 print(len(str1)) # 11
 
-# DAY 4 
+#                                             DAY 4 
+#                                        <------------->
 
 # string functions 
 # string functoins can be defined that string functions helps to find the value, the count, the letters and also it helps to capatilise the letters and also replace some of the words or letters 
@@ -272,3 +276,8 @@ elif(my_name == "aman"): # this line says if the "my_name" is not "naman" then c
     print("its true too") # this line says if "my_name" is "pandey" the print "its true too"
 else:  # this line says that is nothing is true than use me 
     print("false") # and this line says that if the else condition will have to work thenprint "false"
+    
+    
+#                                             DAY - 5
+#                                         <------------->
+
