@@ -337,3 +337,8 @@ match colour: # this startment says that match the colours according to the case
 # loops are classified in 2 types 
 # 1) while loop
 # 2) for loop
+
+#       While loop
+#   <---------------->
+
+# while loop -> while loop are used till the condition is true and once the condition is false the loop will stop 
