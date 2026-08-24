@@ -310,3 +310,21 @@ if(name == "rahul"):# this line says that if the name is "rahul" then you can ch
             print("suscess") # this line says that if both the above lines are true then print "suscess"
     else: 
         print("the startment is wrong") # this line says that if non of the thing is matching then print this "the startment is wrong"
+        
+#       Match Case 
+#    <-------------->
+
+# match case are the alternative of the conditional startments and are used very less in python programing, most of the time we will be using conditional startments only
+
+# eg for match case - >
+
+colour = "red" # this line means that the colour variable stores "red" value
+match colour: # this startment says that match the colours according to the cases 
+    case "red": # this line says thst the colour is red then you cna print the following line
+        print("you have to stop") # this line says that of the colour is red then print "you have to stop"
+    case "yellow": # this line says thst the colour is yellow then you cna print the following line
+        print("you will have to stop now") # this line says that of the colour is yellow then print "you will have to wait"
+    case "green": # this line says thst the colour is green then you cna print the following line
+        print("you can go now") # this line says that of the colour is green then print "you can go now"
+    case _ : 
+        print("nothing maches") # this line says that if any colour dont matches then print "nothing matches"
