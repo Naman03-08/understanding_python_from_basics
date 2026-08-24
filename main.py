@@ -281,3 +281,15 @@ else:  # this line says that is nothing is true than use me
 #                                             DAY - 5
 #                                         <------------->
 
+# day 5 will be start with an example of conditional startment, eg-> 
+
+colour = "green" # this line means that the colour variable stores "green" value
+
+if(colour == "red"): # this line represents that if the colour is "red" then perform the below activity
+    print("the colour is red, you need to stop") # this line says that if the colour is "red" then print the startment 
+elif(colour == "yellow"): # this line says that if the colour is "yellow" the perform the following activity
+    print("the colour is yellow, be ready to move") # this line says that if the colour is "yellow" then print the startment
+elif(colour == "green"): # this line says that if the colour is green then do the following step
+    print("the colour is green, you can go now") # this line says that if the colour is "green" then print the given startment
+else:
+    print("the colour dont exist") # this line says if no colour match then print this startment
