@@ -298,3 +298,15 @@ else:
 #     ----------------------------------
 
 # nested conditional startments are used when they are more then 1 condition applied in a startment eg->
+
+name = "rahul" # this line means that the name variable stores "rahul" value
+surname = "singh" #  # this line means that the surname variable stores "singh" value
+
+if(name == "singh"): # this line says that if the name is "singh" then you can chekc the next startment
+    if(surname == "rahul"): # this line says that if the surname is "rahul" then you cna check the next line 
+        print("unsuscess") # this line says that if both the above lines are true then print "unsuscess"
+if(name == "rahul"):# this line says that if the name is "rahul" then you can chekc the next startment
+    if(surname == "singh"): # this line says that if the surname is "singh" then you cna check the next line 
+            print("suscess") # this line says that if both the above lines are true then print "suscess"
+    else: 
+        print("the startment is wrong") # this line says that if non of the thing is matching then print this "the startment is wrong"
