@@ -293,3 +293,8 @@ elif(colour == "green"): # this line says that if the colour is green then do th
     print("the colour is green, you can go now") # this line says that if the colour is "green" then print the given startment
 else:
     print("the colour dont exist") # this line says if no colour match then print this startment
+    
+#       nestsed conditional startment
+#     ----------------------------------
+
+# nested conditional startments are used when they are more then 1 condition applied in a startment eg->
