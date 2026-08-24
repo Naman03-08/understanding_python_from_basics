@@ -328,3 +328,8 @@ match colour: # this startment says that match the colours according to the case
         print("you can go now") # this line says that of the colour is green then print "you can go now"
     case _ : 
         print("nothing maches") # this line says that if any colour dont matches then print "nothing matches"
+        
+#          loops 
+#     <------------>
+
+# loops-> loops are used to repet any task for some certain number of time and it also depends on the user 
