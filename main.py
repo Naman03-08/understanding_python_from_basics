@@ -342,3 +342,18 @@ match colour: # this startment says that match the colours according to the case
 #   <---------------->
 
 # while loop -> while loop are used till the condition is true and once the condition is false the loop will stop 
+# ** in while loop if we use "True" as condition then the loop will be an infinite loop and its not preferable to make any loop as infinite loop **
+
+# understanding while loop with an example eg->
+
+i = 0; # here "i" is a iterator which starts the loop and also can be said as "i" starts the loop
+while (i <= 10):  # in this sentence, (i<=10) represents that i cannot be grater then 10, i can only be lessthen or equal to 10 and also (i<=10) is an condition
+    print(i) # this line says to print the value of "i"
+    i += 1 # this line says then how the value of "i" will increase
+
+# everything together ->
+   
+    i = 0
+    while (i<=10):
+        print(i)
+    i += 1;
