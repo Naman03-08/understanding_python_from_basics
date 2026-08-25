@@ -354,7 +354,7 @@ while (i <= 10):  # in this sentence, (i<=10) represents that i cannot be grater
 # everything together ->
    
     i = 0
-    while (i<=10):
+    while (i <= 10):
         print(i)
     i += 1;
 
@@ -432,3 +432,11 @@ a = 12 # integer
 b = 13.5 # float
 sum = a+b
 print(type(sum)) # float
+
+# manual conversion 
+a = 12
+b = 13.5
+c = float(a) # this line change the value of a into float value manually 
+print(type(c))
+print(c) 
+
