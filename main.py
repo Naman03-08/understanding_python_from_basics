@@ -440,3 +440,11 @@ c = float(a) # this line change the value of a into float value manually
 print(type(c))
 print(c) 
 
+#             Inputs in python
+#         -------------------------
+
+# inputs are used to take input from the user, eg->
+
+a = input("write your name")
+b = input("enter your age")
+
