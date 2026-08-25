@@ -357,3 +357,15 @@ while (i <= 10):  # in this sentence, (i<=10) represents that i cannot be grater
     while (i<=10):
         print(i)
     i += 1;
+
+#                                                           DAY - 6
+#                                                    <------------------>
+
+
+# today we will try to revise all the older topics together 
+
+#) variables 
+x = 12;
+y = "naman"
+
+# in these both lines "x", "y" are variables and "12", "naman" are the value which are stored 
