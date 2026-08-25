@@ -402,3 +402,12 @@ print(type(name)) # boolean
 #5) none 
 a = None;
 print(type(a)) # none
+
+#      Print sum problem
+#    ----------------------
+
+a = 12;
+b = 13;
+sum = a+b
+print(sum);
+
