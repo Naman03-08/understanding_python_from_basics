@@ -364,8 +364,41 @@ while (i <= 10):  # in this sentence, (i<=10) represents that i cannot be grater
 
 # today we will try to revise all the older topics together 
 
-#) variables 
+#)        variables 
+#      ----------------
 x = 12;
 y = "naman"
 
 # in these both lines "x", "y" are variables and "12", "naman" are the value which are stored 
+
+#            Data Type
+#      ---------------------
+
+# there are total 5 type of data types 
+# 1) string
+# 2) float
+# 3) integer
+# 4) boolean
+# 5) none
+
+#1) string
+name = "naman"
+
+print(type(name)) # string
+
+#2) integer
+
+age = 12;
+print(type(age)) # integer
+
+#3) float
+marks = 89.4
+print(type(marks)) # float
+
+#4) boolean 
+name = True;
+print(type(name)) # boolean
+
+#5) none 
+a = None;
+print(type(a)) # none
