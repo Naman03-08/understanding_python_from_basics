@@ -411,3 +411,11 @@ b = 13;
 sum = a+b
 print(sum);
 
+#          oprators and there type
+#      --------------------------------
+ 
+# thre are total 4 oprators 
+# 1) arthemetic oprator ->  {+, -, /, *, **, %}
+# 2) assingment oprator ->. {+=, -=, /=, *=, %=, **=}
+# 3) relation oprator ->  {==, !=, >=, <=, >, <}
+# 4) logic oprator -> {and, or, not}
