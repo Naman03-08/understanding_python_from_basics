@@ -420,3 +420,15 @@ print(sum);
 # 3) relation oprator ->  {==, !=, >=, <=, >, <}
 # 4) logic oprator -> {and, or, not}
 
+#            conversion and there types 
+#        ----------------------------------
+
+# there are 2 types of conversion 
+# 1) manual conversion
+# 2) automatic conversion 
+
+# automaic conversion ->
+a = 12 # integer
+b = 13.5 # float
+sum = a+b
+print(type(sum)) # float
