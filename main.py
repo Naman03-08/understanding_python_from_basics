@@ -448,3 +448,38 @@ print(c)
 a = input("write your name")
 b = input("enter your age")
 
+#            String Function
+#        ----------------------
+
+# 1) str.endswith()
+# 2) str.capatilised 
+# 3) str.replace("a", "b")
+# 4) str.find("a")
+# 5) str.count()
+
+# for eg->
+
+str = "i am coder"
+
+str.endswith("coder") # True
+str.capitalize() # I am a coder
+str.replace("coder", "programer") # i am a programmer
+str.find("a") 
+str.count("c") # count the occurence of the "c" letter in the "str" sentence
+
+#          Indexing
+#      ----------------
+
+# indexing helps to know the couurnt position of any character in the string, for eg
+
+name = "naman pandey"
+# so the indexing is -> n a m a n   p a n d e y 
+ #                      - - - - - - - - - - - -
+ # index values ->      1 2 3 4 5 6 7 8 9 10 11 12
+ 
+ # *** we can not change the index value of any string ***
+ 
+ #              conditional startment
+ #          ------------------------------
+ 
+ # conditional startments are used to apply conditions like (if, elif, else)
