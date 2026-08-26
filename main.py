@@ -490,3 +490,17 @@ if (i == 100):
 else:
     print("unsecessfull")
     
+#                 nested conditional startments 
+#          --------------------------------------------
+
+
+# nested conditional startments are used to write 2 or more then 2 conditions in one go, for eg->
+i = 12;
+j = 13;
+
+if (i == 12):
+    if(j==13):
+        print("suscessfull")
+    print("true")
+else:
+    print("not true")
