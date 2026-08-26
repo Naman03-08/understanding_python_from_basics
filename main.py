@@ -356,7 +356,7 @@ while (i <= 10):  # in this sentence, (i<=10) represents that i cannot be grater
     i = 0
     while (i <= 10):
         print(i)
-    i += 1;
+        i += 1;
 
 #                                                           DAY - 6
 #                                                    <------------------>
@@ -552,3 +552,11 @@ while (i>= 1):
     print(i)
     i -= 1;
 
+# question 3-> write a program to get a table of which ever number user wants (for eg - 2)
+
+#sol -> 
+i = int(input("enter any number: "))
+n = 1
+while(n<=10):
+    print(i, "x", n, "=", i*n)
+    n += 1
