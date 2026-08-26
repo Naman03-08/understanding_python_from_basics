@@ -543,3 +543,12 @@ i = 1
 while (i<= 5):
     print(i)
     i+= 1
+    
+# question 2-> write a program to print number form 5 to 1 
+
+# sol ->
+i = 5;
+while (i>= 1):
+    print(i)
+    i -= 1;
+
