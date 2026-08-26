@@ -504,3 +504,16 @@ if (i == 12):
     print("true")
 else:
     print("not true")
+
+#                 Match Case Revision
+#             --------------------------
+
+# match case are an alternative of conditional startments for eg
+
+i = 12;
+match i:
+    case 12:
+        print("suscess")
+    case 13:
+        print("unsuscessfull")
+        
