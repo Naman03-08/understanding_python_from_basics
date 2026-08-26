@@ -482,4 +482,11 @@ name = "naman pandey"
  #              conditional startment
  #          ------------------------------
  
- # conditional startments are used to apply conditions like (if, elif, else)
+ # conditional startments are used to apply conditions like (if, elif, else) for eg ->
+ 
+i = 12;
+if (i == 100):
+    print("suscess")
+else:
+    print("unsecessfull")
+    
