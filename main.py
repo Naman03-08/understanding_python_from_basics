@@ -536,3 +536,10 @@ while (i<= 100):
     print(i)
     i += 1 #12, 13, 14, 15, 16, 17, 18........ 100
     
+# question ) write a program to print numbers form 1 to 5 in loop 
+
+#sol->
+i = 1
+while (i<= 5):
+    print(i)
+    i+= 1
