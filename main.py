@@ -525,3 +525,14 @@ match i:
 # there are two types of loops 
 #1) while loop
 #2) for loop
+
+#     while loop
+#  -----------------
+
+# while loops are used to repet any value till the condition is true, for eg->
+
+i = 12;
+while (i<= 100):
+    print(i)
+    i += 1 #12, 13, 14, 15, 16, 17, 18........ 100
+    
