@@ -517,3 +517,11 @@ match i:
     case 13:
         print("unsuscessfull")
         
+#.                  Loops 
+#                -----------
+
+# loops are used to itrate any value, itrate means to repeat anything
+
+# there are two types of loops 
+#1) while loop
+#2) for loop
