@@ -570,10 +570,10 @@ while(n<=10):
   
 # some eg of break and continue keywords ->
 
-i = 12; 
-while i <= 100: 
-    if(i == 19): 
-        break; 
-    print(i) 
-    i+=1 
-print("outside the loop") 
+i = 12; #this startment starts that i will inetate from 12
+while i <= 100: # this startment says that i will be not be more then 100 and only can be 100 or less then 100
+    if(i == 19): # this line says that if the value of "i" is 19 then perform certain condition listed below
+        break; # this startment saya that if the value of i become 19 then break the loop 
+    print(i) # this sartment says to print the value of i
+    i+=1 # this line says to print the value of i with increase with 1 
+print("outside the loop") # this startment says to print "outside the loop" after the loop breks 
