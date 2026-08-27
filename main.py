@@ -563,3 +563,5 @@ while(n<=10):
   
   #                 DAY-6
   #           -----------------    
+  
+  # break and continue 
