@@ -568,6 +568,8 @@ while(n<=10):
   
   # break and continue are keywords which are used when we want to terminate the loop at some certain points 
   
+  #          Break 
+  #      -------------
 # some eg of break and continue keywords ->
 
 i = 12; #this startment starts that i will inetate from 12
@@ -577,3 +579,8 @@ while i <= 100: # this startment says that i will be not be more then 100 and on
     print(i) # this sartment says to print the value of i
     i+=1 # this line says to print the value of i with increase with 1 
 print("outside the loop") # this startment says to print "outside the loop" after the loop breks 
+
+
+#           Continue
+#     --------------------
+
