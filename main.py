@@ -565,3 +565,7 @@ while(n<=10):
   #           -----------------    
   
   # break and continue 
+  
+  # break and continue are keywords which are used when we want to terminate the loop at some certain points 
+  
+  
